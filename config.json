@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordersave",
+        "uuid": 34361928,
+        "checksum": "lk0don"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
